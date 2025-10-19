@@ -89,5 +89,5 @@ The app will be live at http://localhost:3000
 
 ---
 
-**Task Manager Fullstack** — developed for Knit-Finance Assignment with authentication and a dashboard (including a basic backend for API requests)
+**Task Manager Fullstack** — developed for **Knit-Finance** with authentication and a dashboard (including a basic backend for API requests)
 

@@ -57,31 +57,37 @@ Node.js and npm installed
 
 MongoDB installed and running locally or via MongoDB Atlas
 
-Installation Steps
+**Installation Steps**
 
-Clone the repository
-
+**Clone the repository**
+```bash
 git clone...
+```
 
-Install dependencies
+**Install dependencies**
 
-Frontend:
+**Frontend:**
+```bash
 cd client
 npm install
+```
 
-Backend:
+**Backend:**
+```bash
 cd ../server
 npm install
+```
 
-Run the application
-
+**Run the application**
+```bash
 Start backend:
 cd server
 npm run dev
 
 Start frontend:
-cd client
+cd client 
 npm run dev
+```
 
 ---
 

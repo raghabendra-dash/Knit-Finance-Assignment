@@ -1,8 +1,6 @@
 # Assignment
 
-This is a modern, full-stack web application built with the **MERN** stack (MongoDB, Express, React, Node.js).  
-It allows users to register and manage tasks efficiently through an interactive dashboard.  
-The project demonstrates secure authentication, CRUD functionality, responsive design and a scalable architecture — exactly as required in the Frontend Developer Task assignment.
+This is a modern, full-stack web application built with the **MERN** stack (MongoDB, Express, React, Node.js). It allows users to register and manage tasks efficiently through an interactive dashboard.  The project demonstrates secure authentication, CRUD functionality, responsive design and a scalable architecture — exactly as required in the Frontend Developer Task assignment.
 
 ---
  > **Live At**:- [Click Here](https://task-manager-mocked.netlify.app/)
